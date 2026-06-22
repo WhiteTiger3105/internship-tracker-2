@@ -1,0 +1,25 @@
+{
+  "nume": "Cosmin",
+  "an_studiu": "Anul II, Drept, UAIC Iași",
+  "specializari_tinta": ["Corporate/M&A", "Civil", "Imobiliare", "AI Law", "Energy/ESG"],
+  "limbi": {
+    "romana": "nativ",
+    "engleza": "B2 Cambridge",
+    "germana": "functional"
+  },
+  "experienta": [
+    "4 stagii de practica (inclusiv instanta judecatoreasca si tribunal militar)",
+    "Reprezentant in consiliul elevilor (liceu)",
+    "Program Future Romania (leadership)",
+    "Antreprenor - business AI virtual influencer"
+  ],
+  "skill_uri": [
+    "Cercetare juridica", "Redactare documente juridice", "Drept civil",
+    "Drept penal", "Drept fiscal", "Drept administrativ", "Drept UE", "AI Law"
+  ],
+  "calificari_lipsa_probabile": [
+    "Fara experienta directa in M&A / due diligence",
+    "Fara certificare germana formala (doar nivel functional)",
+    "An II - sub cerinta tipica de An III-IV pentru multe Big Law internships"
+  ]
+}

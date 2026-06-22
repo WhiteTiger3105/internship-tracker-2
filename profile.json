@@ -1,0 +1,43 @@
+{
+  "bucuresti": [
+    {"firma": "Wolf Theiss", "url": "https://www.wolftheiss.com/careers/"},
+    {"firma": "Schoenherr", "url": "https://www.schoenherr.eu/careers/"},
+    {"firma": "Clifford Chance Badea", "url": "https://www.cliffordchance.com/careers.html"},
+    {"firma": "Țuca Zbârcea & Asociații", "url": "https://www.tuca.ro/cariere/"},
+    {"firma": "NNDKP", "url": "https://www.nndkp.ro/cariere/"},
+    {"firma": "PeliFilip", "url": "https://www.pelifilip.com/careers/"},
+    {"firma": "Bondoc & Asociații", "url": "https://www.bondoc-asociatii.ro/careers/"},
+    {"firma": "Stratulat Albulescu", "url": "https://www.stratulat-albulescu.ro/careers/"},
+    {"firma": "RTPR", "url": "https://www.rtpr.ro/careers/"},
+    {"firma": "Filip & Company", "url": "https://www.filipco.ro/careers/"},
+    {"firma": "Popovici Nițu Stoica & Asociații (PNSA)", "url": "https://www.pnsa.ro/careers/"},
+    {"firma": "CMS Romania", "url": "https://cms.law/en/rou/careers"},
+    {"firma": "DLA Piper Romania", "url": "https://www.dlapiper.com/en/careers"},
+    {"firma": "Mușat & Asociații", "url": "https://www.musat.ro/cariere/"},
+    {"firma": "Leaua Damcali Deaconu Paunescu (LDDP)", "url": "https://lddp.ro/cariere/"},
+    {"firma": "Suciu Popa", "url": "https://www.suciupopa.com/careers/"},
+    {"firma": "Zamfirescu Racoți Vasile & Partners (ZRVP)", "url": "https://www.zrvp.ro/cariere/"},
+    {"firma": "Biriș Goran", "url": "https://www.bgs.ro/cariere/"},
+    {"firma": "Voicu & Filipescu", "url": "https://www.voicu-filipescu.com/careers/"}
+  ],
+  "iasi": [
+    {"firma": "Baroul Iași - anunțuri", "url": "https://www.baroul-iasi.ro/"},
+    {"firma": "NNDKP Iași", "url": "https://www.nndkp.ro/cariere/"},
+    {"firma": "Suciu Popa Iași", "url": "https://www.suciupopa.com/careers/"},
+    {"firma": "Facultatea de Drept UAIC - oportunități", "url": "https://www.law.uaic.ro/"}
+  ],
+  "joburi_generale": [
+    {"sursa": "BestJobs - avocatura", "url": "https://www.bestjobs.eu/locuri-de-munca/avocatura"},
+    {"sursa": "eJobs - stagiu avocat", "url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat"},
+    {"sursa": "Hipo.ro - internship juridic", "url": "https://www.hipo.ro/joburi/cauta/internship/domeniu_juridic"},
+    {"sursa": "LinkedIn Jobs - legal internship Romania", "url": "https://www.linkedin.com/jobs/search/?keywords=legal%20internship&location=Romania"}
+  ],
+  "cuvinte_cheie_pozitive": [
+    "stagiu", "stagiar", "internship", "practica", "junior", "trainee",
+    "avocat stagiar", "stagiu de practica", "student drept"
+  ],
+  "cuvinte_cheie_prioritare": [
+    "M&A", "fuziuni", "achizitii", "corporate", "civil", "imobiliare",
+    "real estate", "due diligence", "societati comerciale"
+  ]
+}
