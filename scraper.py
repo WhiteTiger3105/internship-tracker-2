@@ -24,12 +24,14 @@ HEADERS = {
 TIMEOUT = 15
 
 KEYWORDS_POSITIVE = [
-    "stagiu", "stagiar", "internship", "practica", "junior",
-    "trainee", "avocat stagiar", "student drept", "drept stagiu"
+    "stagiu", "stagiar", "internship", "practica", "junior", "trainee",
+    "avocat colaborator", "scoala de avocatura", "barou", "student drept",
+    "voluntariat juridic", "summer internship", "vacation scheme"
 ]
 KEYWORDS_PRIORITY = [
-    "m&a", "fuziuni", "achizitii", "corporate", "civil",
-    "imobiliare", "real estate", "due diligence", "societati"
+    "m&a", "fuziuni si achizitii", "corporate", "drept civil",
+    "imobiliare", "real estate", "due diligence", "drept societar",
+    "contracte comerciale", "litigii civile"
 ]
 QUALIFICATION_HINTS = [
     "engleza", "english", "germana", "german", "franceza", "french",
