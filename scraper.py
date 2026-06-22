@@ -1,61 +1,139 @@
-# Internship Tracker — Avocatura BUC & Iasi
+##!/usr/bin/env python3
+"""
+Scraper pentru anunturi de internship / stagiu de practica la firme de avocatura
+din Bucuresti si Iasi. Best-effort: cauta cuvinte-cheie relevante in paginile
+de cariere ale firmelor + cateva job boards generale.
 
-Site static care se actualizeaza **automat, zilnic**, cu anunturi de
-internship/stagiu de practica la firme de avocatura din Bucuresti si Iasi.
-Prioritizeaza Corporate/M&A, Civil, Imobiliare. Verifica fiecare anunt pentru
-cuvinte-cheie de calificare si le compara cu profilul tau (`data/profile.json`).
+Ruleaza zilnic via GitHub Actions (.github/workflows/daily-update.yml).
+"""
+import json
+import time
+import hashlib
+from pathlib import Path
+from datetime import datetime, timezone
 
-## Cum functioneaza
+import requests
+from bs4 import BeautifulSoup
 
-1. `scraper.py` parcurge lista de site-uri din `data/sources.json` (firme de
-   avocatura + job boards) si cauta paragrafe/linkuri care contin cuvinte
-   precum "stagiu", "internship", "practica" etc. Salveaza rezultatele in
-   `data/results.json`.
-2. `generate_site.py` transforma `results.json` intr-o pagina HTML
-   (`docs/index.html`) — cu filtrare pe Bucuresti / Iasi / general si
-   marcaj vizual pentru anunturile prioritare (M&A/Corporate/Civil/Imobiliare).
-3. `.github/workflows/daily-update.yml` ruleaza automat aceasta secventa
-   **o data pe zi** (6:00 UTC), face commit la rezultate si publica pagina
-   pe GitHub Pages.
+ROOT = Path(__file__).resolve().parent
+DATA_DIR = ROOT / "data"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; InternshipTrackerBot/1.0; "
+                  "+https://github.com/) AppleWebKit/537.36"
+}
+TIMEOUT = 15
 
-## Setup (o singura data, ~5 minute)
+KEYWORDS_POSITIVE = [
+    "stagiu", "stagiar", "internship", "practica", "junior",
+    "trainee", "avocat stagiar", "student drept", "drept stagiu"
+]
+KEYWORDS_PRIORITY = [
+    "m&a", "fuziuni", "achizitii", "corporate", "civil",
+    "imobiliare", "real estate", "due diligence", "societati"
+]
+QUALIFICATION_HINTS = [
+    "engleza", "english", "germana", "german", "franceza", "french",
+    "an iii", "an iv", "anul iii", "anul iv", "licenta",
+    "permis", "excel", "word", "cunostinte", "experienta",
+    "disponibil", "full time", "part time"
+]
 
-1. **Creeaza un repo nou pe GitHub** (ex: `internship-tracker`), public.
-2. **Incarca toate fisierele din acest folder** in repo (pastreaza structura
-   exact cum e: `.github/workflows/`, `data/`, `scraper.py`, etc.)
-   - Cel mai simplu: `git init`, `git add .`, `git commit -m "init"`,
-     `git remote add origin <url-ul repo-ului tau>`, `git push -u origin main`.
-3. **Activeaza GitHub Pages cu sursa "GitHub Actions":**
-   - In repo → Settings → Pages → Build and deployment → Source → selecteaza
-     **"GitHub Actions"**.
-4. **Verifica permisiunile Actions:**
-   - Settings → Actions → General → Workflow permissions → selecteaza
-     **"Read and write permissions"**.
-5. **Ruleaza prima data manual** ca sa testezi:
-   - Tab **Actions** → selecteaza workflow-ul "Daily Internship Update" →
-     **Run workflow**.
-6. Dupa ~1-2 minute, pagina ta va fi live la:
-   `https://<username-ul-tau>.github.io/internship-tracker/`
 
-De aici incolo, workflow-ul ruleaza **singur, zilnic**, fara nicio interventie
-din partea ta.
+def fetch(url):
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        resp.raise_for_status()
+        return resp.text
+    except requests.RequestException as e:
+        print(f"  [WARN] Failed to fetch {url}: {e}")
+        return None
 
-## Personalizare
 
-- **Adauga/scoate firme:** editeaza `data/sources.json`.
-- **Schimba orele de rulare:** modifica linia `cron:` din
-  `.github/workflows/daily-update.yml` (formatul e UTC).
-- **Actualizeaza profilul tau:** editeaza `data/profile.json` — de aici se
-  trag notele de tip "Ai engleza B2 — cerinta indeplinita" de pe pagina.
+def extract_snippets(html, base_url):
+    soup = BeautifulSoup(html, "html.parser")
+    text_blocks = soup.find_all(["p", "li", "a", "h1", "h2", "h3", "div"])
+    snippets = []
+    seen_hashes = set()
 
-## Limitari onestre
+    for block in text_blocks:
+        text = block.get_text(separator=" ", strip=True)
+        if not text or len(text) < 15 or len(text) > 1200:
+            continue
+        lower = text.lower()
+        if any(kw in lower for kw in KEYWORDS_POSITIVE):
+            h = hashlib.md5(text.encode()).hexdigest()
+            if h in seen_hashes:
+                continue
+            seen_hashes.add(h)
 
-- Multe site-uri de firme folosesc JavaScript greu sau platforme de cariere
-  (Workday, etc.) care nu sunt usor de "citit" prin scraping simplu (HTML
-  static). Pentru acelea, scriptul poate rata anunturi — verifica manual
-  periodic firmele cu cele mai mari sanse pentru tine (NNDKP, Wolf Theiss,
-  Schoenherr, PNSA, RTPR — Corporate/M&A).
-- LinkedIn blocheaza activ scraping-ul automat; linkul din `sources.json`
-  e mai mult orientativ — s-ar putea sa nu returneze rezultate utile.
-- Acesta e un instrument de **alertare**, nu un inlocuitor pentru verificarea
-  directa pe site-urile firmelor inainte de a aplica.
+            link = base_url
+            if block.name == "a" and block.get("href"):
+                href = block["href"]
+                link = href if href.startswith("http") else requests.compat.urljoin(base_url, href)
+            else:
+                parent_link = block.find("a")
+                if parent_link and parent_link.get("href"):
+                    href = parent_link["href"]
+                    link = href if href.startswith("http") else requests.compat.urljoin(base_url, href)
+
+            priority = any(kw in lower for kw in KEYWORDS_PRIORITY)
+            quals = [hint for hint in QUALIFICATION_HINTS if hint in lower]
+
+            snippets.append({
+                "text": text[:600],
+                "link": link,
+                "priority": priority,
+                "qualifications_detected": quals,
+            })
+    return snippets
+
+
+def scrape_source(name, url, region):
+    print(f"Scraping {name} ({url}) ...")
+    html = fetch(url)
+    if not html:
+        return []
+    snippets = extract_snippets(html, url)
+    results = []
+    for s in snippets:
+        results.append({
+            "firma": name,
+            "regiune": region,
+            "sursa_url": url,
+            **s,
+        })
+    print(f"  -> {len(results)} potential matches")
+    return results
+
+
+def main():
+    sources = json.loads((DATA_DIR / "sources.json").read_text(encoding="utf-8"))
+    all_results = []
+
+    for entry in sources.get("bucuresti", []):
+        all_results.extend(scrape_source(entry["firma"], entry["url"], "Bucuresti"))
+        time.sleep(1)
+
+    for entry in sources.get("iasi", []):
+        all_results.extend(scrape_source(entry["firma"], entry["url"], "Iasi"))
+        time.sleep(1)
+
+    for entry in sources.get("joburi_generale", []):
+        all_results.extend(scrape_source(entry["sursa"], entry["url"], "General"))
+        time.sleep(1)
+
+    all_results.sort(key=lambda r: (not r["priority"], r["firma"]))
+
+    output = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "total_found": len(all_results),
+        "results": all_results,
+    }
+
+    out_path = DATA_DIR / "results.json"
+    out_path.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"\nSalvat {len(all_results)} rezultate in {out_path}")
+
+
+if __name__ == "__main__":
+    main()
