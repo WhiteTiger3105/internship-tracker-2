@@ -1,0 +1,12 @@
+{
+  "nume": "Cosmin",
+  "an_studiu": "Anul II, Drept, UAIC Iasi",
+  "specializari_tinta": ["Corporate/M&A", "Civil", "Imobiliare", "AI Law", "Energy/ESG"],
+  "limbi": {"romana": "nativ", "engleza": "B2 Cambridge", "germana": "functional"},
+  "experienta": [
+    "4 stagii de practica (inclusiv instanta judecatoreasca si tribunal militar)",
+    "Reprezentant in consiliul elevilor (liceu)",
+    "Program Future Romania (leadership)",
+    "Antreprenor - business AI virtual influencer"
+  ]
+}
