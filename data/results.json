@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-23T08:59:41.384930+00:00",
-  "total_found": 32,
+  "generated_at": "2026-06-24T08:53:58.026566+00:00",
+  "total_found": 36,
   "results": [
     {
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "(Austria, Austria) all Austria hungary bulgaria czech republic country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Initiativbewerbung Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in Corporate M&A (m|f|x) Rechtsanwaltsanwärter:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f",
+      "text": "(Austria, Austria) all Austria hungary bulgaria czech republic country all position all AML-/KYC Compliance Specialist (m|f|x) Assistant – Executive Office (m|f|x) | Wien Business Development Coordinator (m|f|x) Initiativbewerbung Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in Corporate M&A (m|f|x) Rechtsanwaltsanwärter:in im Bereich Öffentliches Wirtschaftsrecht mi",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -15,8 +15,44 @@
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Initiativbewerbung Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in Corporate M&A (m|f|x) Rechtsanwaltsanwärter:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirts",
+      "text": "position all AML-/KYC Compliance Specialist (m|f|x) Assistant – Executive Office (m|f|x) | Wien Business Development Coordinator (m|f|x) Initiativbewerbung Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in Corporate M&A (m|f|x) Rechtsanwaltsanwärter:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Senior Rechtsanwaltsanwärte",
       "link": "https://www.schoenherr.eu/careers/",
+      "priority": true,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "24 Iun. 2026 Junior Lawyer - Corporate RANDSTAD ROMANIA București Aplică extern",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/junior-lawyer-corporate/1966769",
+      "priority": true,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "24 Iun. 2026 Junior Lawyer - Corporate RANDSTAD ROMANIA București",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/junior-lawyer-corporate/1966769",
+      "priority": true,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Junior Lawyer - Corporate RANDSTAD ROMANIA București",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/junior-lawyer-corporate/1966769",
+      "priority": true,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Junior Lawyer - Corporate",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/junior-lawyer-corporate/1966769",
       "priority": true,
       "qualifications_detected": []
     },
@@ -291,7 +327,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "200 locuri de munca cautare stagiu+avocat",
+      "text": "207 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
