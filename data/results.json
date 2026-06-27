@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T08:51:17.059687+00:00",
-  "total_found": 33,
+  "generated_at": "2026-06-27T08:27:01.840331+00:00",
+  "total_found": 38,
   "results": [
     {
       "firma": "Schoenherr",
@@ -301,6 +301,51 @@
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "205 locuri de munca cautare stagiu+avocat",
+      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "27 Iun. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "27 Iun. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Avocat - GDPR(Junior)",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Junior Media Buyer MARVA MARKETING",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
