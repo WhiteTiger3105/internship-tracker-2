@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T09:56:50.211853+00:00",
-  "total_found": 38,
+  "generated_at": "2026-07-07T09:24:28.723883+00:00",
+  "total_found": 41,
   "results": [
     {
       "firma": "Schoenherr",
@@ -27,6 +27,42 @@
       "text": "Junior Lawyer - Corporate RANDSTAD ROMANIA",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": true,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Jurist- junior firma constructii Jurist- junior firma constructii DEKADENT D 1000 Ploiești, Prahova, Romania Aplică & Începe interviul",
+      "link": "https://www.bestjobs.eu/loc-de-munca/jurist-junior-firma-constructii",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Jurist- junior firma constructii",
+      "link": "https://www.bestjobs.eu/loc-de-munca/jurist-junior-firma-constructii",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Jurist- junior firma constructii DEKADENT D",
+      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Jurist- junior firma constructii DEKADENT",
+      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "priority": false,
       "qualifications_detected": []
     },
     {
@@ -300,7 +336,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "245 locuri de munca cautare stagiu+avocat",
+      "text": "249 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -309,7 +345,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "6 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
+      "text": "7 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
@@ -318,7 +354,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "6 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
+      "text": "7 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
@@ -338,15 +374,6 @@
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Avocat - GDPR(Junior)",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Junior Media Buyer MARVA MARKETING",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
     }
