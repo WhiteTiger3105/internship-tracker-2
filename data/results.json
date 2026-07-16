@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-15T07:51:07.804473+00:00",
-  "total_found": 41,
+  "generated_at": "2026-07-16T07:56:18.972806+00:00",
+  "total_found": 38,
   "results": [
     {
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "(Austria, Austria) all Austria hungary bulgaria czech republic country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Initiativbewerbung Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in Corporate M&A (m|f|x) Rechtsanwaltsanwärter:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f",
+      "text": "(Austria, Austria) all Austria hungary bulgaria czech republic poland country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Initiativbewerbung Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in Corporate M&A (m|f|x) Rechtsanwaltsanwärter:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschu",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -61,33 +61,6 @@
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "text": "Jurist- junior firma constructii DEKADENT",
-      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Jurist junior Jurist junior Automaxis Engineering AE 700 - 800 Bulevardul Iuliu Maniu 7, București, ... Aplică & Începe interviul",
-      "link": "https://www.bestjobs.eu/loc-de-munca/jurist-junior-11",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Jurist junior Automaxis Engineering AE",
-      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Jurist junior Automaxis Engineering",
       "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "priority": false,
       "qualifications_detected": []
@@ -336,7 +309,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "306 locuri de munca cautare stagiu+avocat",
+      "text": "301 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -345,7 +318,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "15 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
+      "text": "16 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
@@ -354,7 +327,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "15 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
+      "text": "16 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
