@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T07:53:02.773617+00:00",
+  "generated_at": "2026-07-18T07:27:42.316947+00:00",
   "total_found": 42,
   "results": [
     {
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "(Austria, Austria) all Austria hungary bulgaria czech republic poland country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Initiativbewerbung Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Senior Compliance Legal Counsel (m|f",
+      "text": "(Austria, Austria) all Austria hungary bulgaria czech republic poland country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Senior Compliance Legal Counsel (m|f|x) Senior Rechtsan",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -15,7 +15,7 @@
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Initiativbewerbung Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Senior Compliance Legal Counsel (m|f|x) Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsr",
+      "text": "position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Senior Compliance Legal Counsel (m|f|x) Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunk",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -27,42 +27,6 @@
       "text": "Junior Lawyer - Corporate RANDSTAD ROMANIA",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": true,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Consilier juridic Junior/Cu experiență Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana BI 950 - 1900 Bucuresti, Strada Uruguay nr. 14, sec... Aplică & Începe interviul",
-      "link": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-junior-cu-experienta",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Consilier juridic Junior/Cu experiență",
-      "link": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-junior-cu-experienta",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana BI",
-      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana",
-      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
       "qualifications_detected": []
     },
     {
@@ -97,6 +61,42 @@
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "text": "Jurist- junior firma constructii DEKADENT",
+      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Consilier juridic Junior/Cu experiență Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana BI 950 - 1900 Bucuresti, Strada Uruguay nr. 14, sec... Aplică & Începe interviul",
+      "link": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-junior-cu-experienta",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Consilier juridic Junior/Cu experiență",
+      "link": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-junior-cu-experienta",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana BI",
+      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana",
       "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "priority": false,
       "qualifications_detected": []
@@ -345,7 +345,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "293 locuri de munca cautare stagiu+avocat",
+      "text": "306 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -354,7 +354,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "17 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
+      "text": "18 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
@@ -363,7 +363,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "17 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
+      "text": "18 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
