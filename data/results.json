@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T07:59:42.694902+00:00",
-  "total_found": 42,
+  "generated_at": "2026-07-20T08:40:49.691426+00:00",
+  "total_found": 40,
   "results": [
     {
       "firma": "Schoenherr",
@@ -98,24 +98,6 @@
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "text": "Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana",
       "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Bondoc & Asociatii",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
-      "text": "ToÈi participanÈii la dezbatere au Èansa de a participa la programul de internship desfÄÈurat de B&A Ã®n perioada verii.",
-      "link": "https://www.bondoc-asociatii.ro/careers/",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Bondoc & Asociatii",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
-      "text": "BONDOC Èi ASOCIAÈII Â is looking for junior lawyers Â to join ourÂ Banking & Finance and Information Technology & Communications practices.",
-      "link": "https://bondoc-asociatii.ro/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -345,7 +327,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "302 locuri de munca cautare stagiu+avocat",
+      "text": "295 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -354,7 +336,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "19 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
+      "text": "20 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
@@ -363,7 +345,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "19 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
+      "text": "20 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
