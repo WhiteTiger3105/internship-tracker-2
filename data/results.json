@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T08:40:49.691426+00:00",
-  "total_found": 40,
+  "generated_at": "2026-07-21T08:08:35.336743+00:00",
+  "total_found": 46,
   "results": [
     {
       "firma": "Schoenherr",
@@ -27,6 +27,42 @@
       "text": "Junior Lawyer - Corporate RANDSTAD ROMANIA",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": true,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading Raspunde rapid 1370 - 1515 (Estimare) București, România Aplică & Începe interviul",
+      "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-counsel-fixed-term-2-years",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Junior Legal Counsel - Fixed Term 2 Years",
+      "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-counsel-fixed-term-2-years",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Junior Legal Counsel - Fixed Term 2 Years ADM Trading Raspunde rapid",
+      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Junior Legal Counsel - Fixed Term 2 Years ADM Trading",
+      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "priority": false,
       "qualifications_detected": []
     },
     {
@@ -102,11 +138,20 @@
       "qualifications_detected": []
     },
     {
-      "firma": "Clifford Chance Badea",
+      "firma": "Bondoc & Asociatii",
       "regiune": "Bucuresti",
-      "sursa_url": "https://www.cliffordchance.com/careers.html",
-      "text": "Our people Aaran Scott Director of Legal Project Management, UK \"I enjoy and find the work at Clifford Chance challenging and varied every day. I also appreciate the fact that Clifford Chance is a very people-orientated firm.\" Read more Haeyoung Kim Associate, Projects, Singapore \"For those aspiring to secure a Training Contract with Clifford Chance, I highly recommend applying for the summer internship. During the internship, you get to engage with people from diverse backgrounds and seniority levels, which will provide invaluable insights into the firm's culture and career paths.\" Read more",
-      "link": "https://jobs.cliffordchance.com/aaran-scott",
+      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
+      "text": "ToÈi participanÈii la dezbatere au Èansa de a participa la programul de internship desfÄÈurat de B&A Ã®n perioada verii.",
+      "link": "https://www.bondoc-asociatii.ro/careers/",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Bondoc & Asociatii",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
+      "text": "BONDOC Èi ASOCIAÈII Â is looking for junior lawyers Â to join ourÂ Banking & Finance and Information Technology & Communications practices.",
+      "link": "https://bondoc-asociatii.ro/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -114,8 +159,17 @@
       "firma": "Clifford Chance Badea",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.cliffordchance.com/careers.html",
-      "text": "Aaran Scott Director of Legal Project Management, UK \"I enjoy and find the work at Clifford Chance challenging and varied every day. I also appreciate the fact that Clifford Chance is a very people-orientated firm.\" Read more Haeyoung Kim Associate, Projects, Singapore \"For those aspiring to secure a Training Contract with Clifford Chance, I highly recommend applying for the summer internship. During the internship, you get to engage with people from diverse backgrounds and seniority levels, which will provide invaluable insights into the firm's culture and career paths.\" Read more",
-      "link": "https://jobs.cliffordchance.com/aaran-scott",
+      "text": "Where people empower each other to be exceptional We work as one global team across borders and disciplines. Together, we deliver solutions that create business advantage for our clients. It is challenging but also incredibly rewarding. We set the bar high and expect our people to reach even higher. But you won’t do it alone. You’ll work alongside colleagues who go the extra mile to support each other to give our clients – and our business – the advantage. If you invest in our success, we’ll invest in yours. We’ll empower you to take charge of your development and drive your performance. Apply",
+      "link": "https://jobs.cliffordchance.com",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Clifford Chance Badea",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.cliffordchance.com/careers.html",
+      "text": "Our people Haeyoung Kim Associate, Projects, Singapore \"For those aspiring to secure a Training Contract with Clifford Chance, I highly recommend applying for the summer internship. During the internship, you get to engage with people from diverse backgrounds and seniority levels, which will provide invaluable insights into the firm's culture and career paths.\" Read more",
+      "link": "https://jobs.cliffordchance.com/haeyoung-kim-apac",
       "priority": false,
       "qualifications_detected": []
     },
@@ -327,7 +381,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "295 locuri de munca cautare stagiu+avocat",
+      "text": "299 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -336,7 +390,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "20 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
+      "text": "21 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
@@ -345,7 +399,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "20 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
+      "text": "21 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
