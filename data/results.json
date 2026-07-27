@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-26T08:09:00.302244+00:00",
-  "total_found": 48,
+  "generated_at": "2026-07-27T09:31:05.699416+00:00",
+  "total_found": 44,
   "results": [
     {
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "(Austria, Austria) all Austria hungary czech republic poland country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Senior Compliance Legal Counsel (m|f|x) Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Legal A",
+      "text": "(Austria, Austria) all Austria hungary czech republic poland country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Legal Assistant (m|f|x) We are hiring Student (",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -15,7 +15,7 @@
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Senior Compliance Legal Counsel (m|f|x) Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Legal Assistant (m|f|x) We are hiring Student (m|f|x) Student/Apprentice (m|f|x)",
+      "text": "position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Legal Assistant (m|f|x) We are hiring Student (m|f|x) Student/Apprentice (m|f|x) Marketing (Corporate Communications Sup",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -372,44 +372,8 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "288 locuri de munca cautare stagiu+avocat",
+      "text": "283 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "26 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București Aplică extern",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "26 Iul. 2026 Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Avocat - GDPR(Junior) RANDSTAD ROMANIA București",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Avocat - GDPR(Junior)",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-gdpr-junior/1967978",
       "priority": false,
       "qualifications_detected": []
     },
@@ -426,7 +390,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Inginer Stagiar Electricitate(245591) Delgaz Grid S.A.",
+      "text": "Inginer Stagiar Electricitate(245592) Delgaz Grid S.A.",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -435,7 +399,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Inginer Stagiar Electricitate(245592) Delgaz Grid S.A.",
+      "text": "Inginer Stagiar Electricitate(245591) Delgaz Grid S.A.",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
