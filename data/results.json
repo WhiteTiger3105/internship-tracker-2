@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T09:31:05.699416+00:00",
-  "total_found": 44,
+  "generated_at": "2026-07-28T08:15:11.470274+00:00",
+  "total_found": 42,
   "results": [
     {
       "firma": "Schoenherr",
@@ -60,7 +60,7 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading Raspunde rapid 1370 - 1515 (Estimare) București, România Aplică & Începe interviul",
+      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading Raspunde rapid 1375 - 1515 (Estimare) București, România Aplică & Începe interviul",
       "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-counsel-fixed-term-2-years",
       "priority": false,
       "qualifications_detected": []
@@ -125,24 +125,6 @@
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "text": "Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana",
       "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Bondoc & Asociatii",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
-      "text": "ToÈi participanÈii la dezbatere au Èansa de a participa la programul de internship desfÄÈurat de B&A Ã®n perioada verii.",
-      "link": "https://www.bondoc-asociatii.ro/careers/",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Bondoc & Asociatii",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
-      "text": "BONDOC Èi ASOCIAÈII Â is looking for junior lawyers Â to join ourÂ Banking & Finance and Information Technology & Communications practices.",
-      "link": "https://bondoc-asociatii.ro/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -372,7 +354,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "283 locuri de munca cautare stagiu+avocat",
+      "text": "286 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
