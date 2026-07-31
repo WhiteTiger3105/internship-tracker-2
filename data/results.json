@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-30T08:08:02.819658+00:00",
-  "total_found": 44,
+  "generated_at": "2026-07-31T08:34:11.485788+00:00",
+  "total_found": 42,
   "results": [
     {
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "(Austria, Austria) all Austria hungary czech republic poland country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Legal Assistant (m|f|x) We are hiring Student (",
+      "text": "(Austria, Austria) all Austria hungary czech republic poland country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsassistent:in (m|f|x) - Linz Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Legal ",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -15,7 +15,7 @@
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Legal Assistant (m|f|x) We are hiring Student (m|f|x) Student/Apprentice (m|f|x) Marketing (Corporate Communications Sup",
+      "text": "position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsassistent:in (m|f|x) - Linz Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) Legal Assistant (m|f|x) We are hiring Student (m|f|x) Student/Apprentice (m|f|x",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -125,24 +125,6 @@
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "text": "Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana",
       "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Bondoc & Asociatii",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
-      "text": "ToÈi participanÈii la dezbatere au Èansa de a participa la programul de internship desfÄÈurat de B&A Ã®n perioada verii.",
-      "link": "https://www.bondoc-asociatii.ro/careers/",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Bondoc & Asociatii",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
-      "text": "BONDOC Èi ASOCIAÈII Â is looking for junior lawyers Â to join ourÂ Banking & Finance and Information Technology & Communications practices.",
-      "link": "https://bondoc-asociatii.ro/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -285,8 +267,8 @@
       "firma": "Wolf Theiss",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.wolftheiss.com/careers/",
-      "text": "Legal Internships in Austria Applications open on 1 June. Stay tuned. Berufsbildertag at Uni Wien 11 June 2026 | 14:00 – 18:00 Uni Wien Universitätsring 1, 1010 Wien",
-      "link": "https://uniport-karriereservice-universitaet-wien.lineupr.com/berufsbildertag-2026/",
+      "text": "Legal Internships in Austria Applications open on 1 June. Stay tuned. REWI-Praxistag at Uni Graz 8 October 2026 | 14:00 – 17:00 University of Graz, RESOWI-Zentrum",
+      "link": "https://www.wolftheiss.com/careers/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -372,7 +354,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "305 locuri de munca cautare stagiu+avocat",
+      "text": "302 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
