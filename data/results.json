@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T08:05:49.404659+00:00",
-  "total_found": 44,
+  "generated_at": "2026-08-03T09:22:25.182061+00:00",
+  "total_found": 42,
   "results": [
     {
       "firma": "Schoenherr",
@@ -372,7 +372,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "306 locuri de munca cautare stagiu+avocat",
+      "text": "298 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -382,24 +382,6 @@
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Practicant Logistica- determinat 12 luni Airbus Aerostructures SRL",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Inginer Stagiar Electricitate(245592) Delgaz Grid S.A.",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Inginer Stagiar Electricitate(245591) Delgaz Grid S.A.",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
