@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T08:20:23.232204+00:00",
-  "total_found": 43,
+  "generated_at": "2026-08-05T08:17:42.454828+00:00",
+  "total_found": 44,
   "results": [
     {
       "firma": "Schoenherr",
@@ -60,7 +60,7 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading Raspunde rapid 1370 - 1515 (Estimare) București, România Aplică & Începe interviul",
+      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading Raspunde rapid 1370 - 1510 (Estimare) București, România Aplică & Începe interviul",
       "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-counsel-fixed-term-2-years",
       "priority": false,
       "qualifications_detected": []
@@ -372,7 +372,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "304 locuri de munca cautare stagiu+avocat",
+      "text": "316 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -382,6 +382,15 @@
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Practicant Logistica- determinat 12 luni Airbus Aerostructures SRL",
+      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Inginer Stagiar Electricitate(245592) Delgaz Grid S.A.",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
