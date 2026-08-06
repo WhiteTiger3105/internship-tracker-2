@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T08:17:42.454828+00:00",
-  "total_found": 44,
+  "generated_at": "2026-08-06T08:15:22.053841+00:00",
+  "total_found": 42,
   "results": [
     {
       "firma": "Schoenherr",
@@ -24,8 +24,8 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Jurist- junior firma constructii Jurist- junior firma constructii DEKADENT D 1000 Ploiești, Prahova, Romania Aplică & Începe interviul",
-      "link": "https://www.bestjobs.eu/loc-de-munca/jurist-junior-firma-constructii",
+      "text": "Avocat Stagiar Bucuresti Avocat Stagiar Bucuresti Fii printre primii aplicanti MASTERCREDIT 800 - 1200 Națiunile Unite, Bulevardul Națiunile... , ... Aplică & Începe interviul",
+      "link": "https://www.bestjobs.eu/loc-de-munca/avocat-stagiar-bucuresti-3",
       "priority": false,
       "qualifications_detected": []
     },
@@ -33,8 +33,8 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Jurist- junior firma constructii",
-      "link": "https://www.bestjobs.eu/loc-de-munca/jurist-junior-firma-constructii",
+      "text": "Avocat Stagiar Bucuresti",
+      "link": "https://www.bestjobs.eu/loc-de-munca/avocat-stagiar-bucuresti-3",
       "priority": false,
       "qualifications_detected": []
     },
@@ -42,7 +42,7 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Jurist- junior firma constructii DEKADENT D",
+      "text": "Avocat Stagiar Bucuresti Fii printre primii aplicanti MASTERCREDIT",
       "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "priority": false,
       "qualifications_detected": []
@@ -51,16 +51,7 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Jurist- junior firma constructii DEKADENT",
-      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading Raspunde rapid 1370 - 1510 (Estimare) București, România Aplică & Începe interviul",
+      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading 1370 - 1515 (Estimare) București, România Aplică & Începe interviul",
       "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-counsel-fixed-term-2-years",
       "priority": false,
       "qualifications_detected": []
@@ -71,15 +62,6 @@
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "text": "Junior Legal Counsel - Fixed Term 2 Years",
       "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-counsel-fixed-term-2-years",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Junior Legal Counsel - Fixed Term 2 Years ADM Trading Raspunde rapid",
-      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "priority": false,
       "qualifications_detected": []
     },
@@ -372,7 +354,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "316 locuri de munca cautare stagiu+avocat",
+      "text": "312 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -399,7 +381,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Junior BI Developer Flanco",
+      "text": "Inginer Stagiar Electricitate (245845) Delgaz Grid S.A.",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
