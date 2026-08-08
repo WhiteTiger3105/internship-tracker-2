@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T07:00:26.901772+00:00",
-  "total_found": 42,
+  "generated_at": "2026-08-08T06:34:29.838935+00:00",
+  "total_found": 46,
   "results": [
     {
       "firma": "Schoenherr",
@@ -24,7 +24,7 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Avocat Stagiar Bucuresti Avocat Stagiar Bucuresti Fii printre primii aplicanti MASTERCREDIT 800 - 1200 Națiunile Unite, Bulevardul Națiunile... , ... Aplică & Începe interviul",
+      "text": "Avocat Stagiar Bucuresti Avocat Stagiar Bucuresti MASTERCREDIT 800 - 1200 Națiunile Unite, Bulevardul Națiunile... , ... Aplică & Începe interviul",
       "link": "https://www.bestjobs.eu/loc-de-munca/avocat-stagiar-bucuresti-3",
       "priority": false,
       "qualifications_detected": []
@@ -42,7 +42,7 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Avocat Stagiar Bucuresti Fii printre primii aplicanti MASTERCREDIT",
+      "text": "Avocat Stagiar Bucuresti MASTERCREDIT",
       "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "priority": false,
       "qualifications_detected": []
@@ -51,7 +51,7 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading 1370 - 1515 (Estimare) București, România Aplică & Începe interviul",
+      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading 1365 - 1510 (Estimare) București, România Aplică & Începe interviul",
       "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-counsel-fixed-term-2-years",
       "priority": false,
       "qualifications_detected": []
@@ -354,7 +354,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "303 locuri de munca cautare stagiu+avocat",
+      "text": "317 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -363,7 +363,43 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "7 Aug. 2026 Avocat Stagiar MASTERLEVEL SOLUTIONS S.R.L. Videle 4000 - 6000 RON net / lună Aplică rapid",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar/1977577",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "7 Aug. 2026 Avocat Stagiar MASTERLEVEL SOLUTIONS S.R.L. Videle 4000 - 6000 RON net / lună",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar/1977577",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Avocat Stagiar MASTERLEVEL SOLUTIONS S.R.L. Videle 4000 - 6000 RON net / lună",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar/1977577",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Practicant Logistica- determinat 12 luni Airbus Aerostructures SRL",
+      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Inginer Stagiar Electricitate (245845) Delgaz Grid S.A.",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -381,7 +417,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Inginer Stagiar Electricitate (245845) Delgaz Grid S.A.",
+      "text": "Junior BI Developer Flanco",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
