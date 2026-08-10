@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:38:24.888734+00:00",
+  "generated_at": "2026-08-10T07:10:40.496976+00:00",
   "total_found": 46,
   "results": [
     {
@@ -399,7 +399,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Inginer Stagiar Electricitate (245845) Delgaz Grid S.A.",
+      "text": "Inginer Stagiar Electricitate(245592) Delgaz Grid S.A.",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -408,7 +408,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Inginer Stagiar Electricitate(245592) Delgaz Grid S.A.",
+      "text": "Inginer Stagiar Electricitate (245845) Delgaz Grid S.A.",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
