@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T07:10:40.496976+00:00",
-  "total_found": 46,
+  "generated_at": "2026-08-11T06:48:20.667346+00:00",
+  "total_found": 47,
   "results": [
     {
       "firma": "Schoenherr",
@@ -354,7 +354,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "316 locuri de munca cautare stagiu+avocat",
+      "text": "320 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -363,8 +363,8 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "7 Aug. 2026 Avocat Stagiar MASTERLEVEL SOLUTIONS S.R.L. Videle 4000 - 6000 RON net / lună Aplică rapid",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar/1977577",
+      "text": "7 Aug. 2026 Avocat Stagiar Bucuresti MASTERLEVEL SOLUTIONS S.R.L. București 4000 - 6000 RON net / lună Aplică rapid",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar-bucuresti/1977577",
       "priority": false,
       "qualifications_detected": []
     },
@@ -372,8 +372,8 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "7 Aug. 2026 Avocat Stagiar MASTERLEVEL SOLUTIONS S.R.L. Videle 4000 - 6000 RON net / lună",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar/1977577",
+      "text": "7 Aug. 2026 Avocat Stagiar Bucuresti MASTERLEVEL SOLUTIONS S.R.L. București 4000 - 6000 RON net / lună",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar-bucuresti/1977577",
       "priority": false,
       "qualifications_detected": []
     },
@@ -381,8 +381,17 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Avocat Stagiar MASTERLEVEL SOLUTIONS S.R.L. Videle 4000 - 6000 RON net / lună",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar/1977577",
+      "text": "Avocat Stagiar Bucuresti MASTERLEVEL SOLUTIONS S.R.L. București 4000 - 6000 RON net / lună",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar-bucuresti/1977577",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Avocat Stagiar Bucuresti",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar-bucuresti/1977577",
       "priority": false,
       "qualifications_detected": []
     },
