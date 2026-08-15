@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T07:09:00.494816+00:00",
-  "total_found": 45,
+  "generated_at": "2026-08-15T06:20:45.461558+00:00",
+  "total_found": 46,
   "results": [
     {
       "firma": "Schoenherr",
@@ -24,7 +24,7 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Avocat Stagiar Bucuresti Avocat Stagiar Bucuresti MASTERCREDIT 800 - 1200 București, România , ... Aplică & Începe interviul",
+      "text": "Avocat Stagiar Bucuresti Avocat Stagiar Bucuresti MASTERCREDIT 800 - 1200 Națiunile Unite, Bulevardul Națiunile... , ... Aplică & Începe interviul",
       "link": "https://www.bestjobs.eu/loc-de-munca/avocat-stagiar-bucuresti-3",
       "priority": false,
       "qualifications_detected": []
@@ -107,6 +107,24 @@
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "text": "Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana",
       "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Bondoc & Asociatii",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
+      "text": "ToÈi participanÈii la dezbatere au Èansa de a participa la programul de internship desfÄÈurat de B&A Ã®n perioada verii.",
+      "link": "https://www.bondoc-asociatii.ro/careers/",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Bondoc & Asociatii",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
+      "text": "BONDOC Èi ASOCIAÈII Â is looking for junior lawyers Â to join ourÂ Banking & Finance and Information Technology & Communications practices.",
+      "link": "https://bondoc-asociatii.ro/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -336,7 +354,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "221 locuri de munca cautare stagiu+avocat",
+      "text": "327 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -400,15 +418,6 @@
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Inginer Stagiar Electricitate (245845) Delgaz Grid S.A.",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Junior BI Developer Flanco",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
