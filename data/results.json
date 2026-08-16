@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T06:20:45.461558+00:00",
-  "total_found": 46,
+  "generated_at": "2026-08-16T06:22:45.218946+00:00",
+  "total_found": 43,
   "results": [
     {
       "firma": "Schoenherr",
@@ -70,42 +70,6 @@
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "text": "Junior Legal Counsel - Fixed Term 2 Years ADM Trading",
-      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Consilier juridic Junior/Cu experiență Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana BI 950 - 1900 Bucuresti, Strada Uruguay nr. 14, sec... Aplică & Începe interviul",
-      "link": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-junior-cu-experienta",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Consilier juridic Junior/Cu experiență",
-      "link": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-junior-cu-experienta",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana BI",
-      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Consilier juridic Junior/Cu experiență Biroul Individual Notarial Nica Adriana",
       "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "priority": false,
       "qualifications_detected": []
@@ -354,7 +318,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "327 locuri de munca cautare stagiu+avocat",
+      "text": "326 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -418,6 +382,15 @@
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Inginer Stagiar Electricitate (245845) Delgaz Grid S.A.",
+      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Junior BI Developer Flanco",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
