@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T06:33:39.954614+00:00",
-  "total_found": 43,
+  "generated_at": "2026-08-18T06:25:39.888004+00:00",
+  "total_found": 45,
   "results": [
     {
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "(Austria, Austria) all Austria hungary czech republic poland türkiye country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsassistent:in (m|f|x) - Linz Senior Rechtsanwaltsanwärter:in | Anwält:in für den Bereich Capital Markets, Banking & Finance Senior Rechtsanwaltsanwärter:in|Anwä",
+      "text": "(Austria, Austria) all Austria hungary czech republic poland türkiye country all position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsassistent:in (m|f|x) - Linz Senior Rechtsanwaltsanwärter:in | Anwält:in für den Bereich Capital Markets, Banking & Finance Senior ",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -15,7 +15,7 @@
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsassistent:in (m|f|x) - Linz Senior Rechtsanwaltsanwärter:in | Anwält:in für den Bereich Capital Markets, Banking & Finance Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klim",
+      "text": "position all AML-/KYC Compliance Specialist (m|f|x) Business Development Coordinator (m|f|x) Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsassistent:in (m|f|x) - Linz Senior Rechtsanwaltsanwärter:in | Anwält:in für den Bereich Capital Markets, Banking & Finance Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit S",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -51,7 +51,7 @@
       "firma": "BestJobs - avocatura",
       "regiune": "General",
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading 1370 - 1515 (Estimare) București, România Aplică & Începe interviul",
+      "text": "Junior Legal Counsel - Fixed Term 2 Years Junior Legal Counsel - Fixed Term 2 Years ADM Trading Raspunde rapid 1370 - 1515 (Estimare) București, România Aplică & Începe interviul",
       "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-counsel-fixed-term-2-years",
       "priority": false,
       "qualifications_detected": []
@@ -62,6 +62,15 @@
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "text": "Junior Legal Counsel - Fixed Term 2 Years",
       "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-counsel-fixed-term-2-years",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Junior Legal Counsel - Fixed Term 2 Years ADM Trading Raspunde rapid",
+      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "priority": false,
       "qualifications_detected": []
     },
@@ -170,6 +179,33 @@
       "sursa_url": "https://www.musat.ro/cariere/",
       "text": "Avocați stagiari",
       "link": "https://www.musat.ro/jobs/avocati-stagiari/",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Schoenherr",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.schoenherr.eu/careers/",
+      "text": "Junior Buchhalter:in (m|f|x) location Austria| Vienna Finance, Accounting & Controlling Full-time employee apply now",
+      "link": "https://schoenherr.onlyfy.jobs/job/1ggd3c5mslc90ze0kani4e6rjtq2pw",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Schoenherr",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.schoenherr.eu/careers/",
+      "text": "Junior Buchhalter:in (m|f|x) location Austria| Vienna Finance, Accounting & Controlling Full-time employee",
+      "link": "https://schoenherr.onlyfy.jobs/job/1ggd3c5mslc90ze0kani4e6rjtq2pw",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Schoenherr",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.schoenherr.eu/careers/",
+      "text": "Junior Buchhalter:in (m|f|x)",
+      "link": "https://schoenherr.onlyfy.jobs/job/1ggd3c5mslc90ze0kani4e6rjtq2pw",
       "priority": false,
       "qualifications_detected": []
     },
@@ -318,7 +354,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "303 locuri de munca cautare stagiu+avocat",
+      "text": "313 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -364,24 +400,6 @@
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Practicant Logistica- determinat 12 luni Airbus Aerostructures SRL",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Inginer Stagiar Electricitate(245592) Delgaz Grid S.A.",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Inginer Stagiar Electricitate (245845) Delgaz Grid S.A.",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
