@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T06:28:03.385702+00:00",
-  "total_found": 42,
+  "generated_at": "2026-08-21T06:28:55.265187+00:00",
+  "total_found": 41,
   "results": [
     {
       "firma": "Schoenherr",
@@ -318,7 +318,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "377 locuri de munca cautare stagiu+avocat",
+      "text": "375 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -327,7 +327,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "14 Aug. 2026 Avocat Stagiar Bucuresti MASTERLEVEL SOLUTIONS S.R.L. București 4000 - 6000 RON net / lună Aplică rapid",
+      "text": "21 Aug. 2026 Avocat Stagiar Bucuresti MASTERLEVEL SOLUTIONS S.R.L. București 4000 - 6000 RON net / lună Aplică rapid",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar-bucuresti/1977577",
       "priority": false,
       "qualifications_detected": []
@@ -336,7 +336,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "14 Aug. 2026 Avocat Stagiar Bucuresti MASTERLEVEL SOLUTIONS S.R.L. București 4000 - 6000 RON net / lună",
+      "text": "21 Aug. 2026 Avocat Stagiar Bucuresti MASTERLEVEL SOLUTIONS S.R.L. București 4000 - 6000 RON net / lună",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar-bucuresti/1977577",
       "priority": false,
       "qualifications_detected": []
@@ -356,15 +356,6 @@
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Avocat Stagiar Bucuresti",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-stagiar-bucuresti/1977577",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Practicant Logistica- determinat 12 luni Airbus Aerostructures SRL",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
     },
