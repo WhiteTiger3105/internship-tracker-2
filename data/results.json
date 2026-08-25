@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T06:36:59.480306+00:00",
-  "total_found": 41,
+  "generated_at": "2026-08-25T06:28:48.811153+00:00",
+  "total_found": 40,
   "results": [
     {
       "firma": "Schoenherr",
@@ -318,7 +318,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "370 locuri de munca cautare stagiu+avocat",
+      "text": "375 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -364,15 +364,6 @@
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Inginer Stagiar Electricitate(245592) Delgaz Grid S.A.",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Junior BI Developer Flanco",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
