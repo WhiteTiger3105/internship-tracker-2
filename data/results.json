@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T11:01:52.746319+00:00",
-  "total_found": 33,
+  "generated_at": "2026-09-08T10:17:09.298511+00:00",
+  "total_found": 29,
   "results": [
     {
       "firma": "Schoenherr",
@@ -18,42 +18,6 @@
       "text": "position all Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im Bereich EU & Competition Senior Rechtsanwaltsanwärter:in|Anwält:in im Bereich Öffentliches Wirtschaftsrecht mit Schwerpunkt Umweltrecht & Klimaschutz (m|f|x) L",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Legal Trainee RO Legal Trainee RO JDE Peets JP Bucharest, Romania Interesat",
-      "link": "https://www.bestjobs.eu/loc-de-munca/legal-trainee-ro",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Legal Trainee RO",
-      "link": "https://www.bestjobs.eu/loc-de-munca/legal-trainee-ro",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Legal Trainee RO JDE Peets JP",
-      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "BestJobs - avocatura",
-      "regiune": "General",
-      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "text": "Legal Trainee RO JDE Peets",
-      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
       "qualifications_detected": []
     },
     {
@@ -300,7 +264,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "280 locuri de munca cautare stagiu+avocat",
+      "text": "283 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
