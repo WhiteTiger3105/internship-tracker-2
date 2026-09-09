@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T10:17:09.298511+00:00",
-  "total_found": 29,
+  "generated_at": "2026-09-09T10:23:24.075023+00:00",
+  "total_found": 33,
   "results": [
     {
       "firma": "Schoenherr",
@@ -264,8 +264,44 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "283 locuri de munca cautare stagiu+avocat",
+      "text": "284 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "8 Sept. 2026 Avocat colaborator SC UPLINE ACCOUNTING SRL București 5000 - 10000 RON net / lună Aplică rapid",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-colaborator/1984993",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "8 Sept. 2026 Avocat colaborator SC UPLINE ACCOUNTING SRL București 5000 - 10000 RON net / lună",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-colaborator/1984993",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Avocat colaborator SC UPLINE ACCOUNTING SRL București 5000 - 10000 RON net / lună",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-colaborator/1984993",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Avocat colaborator",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-colaborator/1984993",
       "priority": false,
       "qualifications_detected": []
     }
