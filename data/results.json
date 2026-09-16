@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:41:20.559305+00:00",
-  "total_found": 37,
+  "generated_at": "2026-09-16T10:29:01.878671+00:00",
+  "total_found": 39,
   "results": [
     {
       "firma": "Schoenherr",
@@ -21,11 +21,29 @@
       "qualifications_detected": []
     },
     {
-      "firma": "Bondoc & Asociatii",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
-      "text": "ToÈi participanÈii la dezbatere au Èansa de a participa la programul de internship desfÄÈurat de B&A Ã®n perioada verii.",
-      "link": "https://www.bondoc-asociatii.ro/careers/",
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Junior Legal / Law Student – Travel & Aviation Junior Legal / Law Student – Travel & Aviation FLYBACK 870 - 965 (Estimare) Remote Aplică & Începe interviul",
+      "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-law-student-travel-aviation",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Junior Legal / Law Student – Travel & Aviation",
+      "link": "https://www.bestjobs.eu/loc-de-munca/junior-legal-law-student-travel-aviation",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "BestJobs - avocatura",
+      "regiune": "General",
+      "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
+      "text": "Junior Legal / Law Student – Travel & Aviation FLYBACK",
+      "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "priority": false,
       "qualifications_detected": []
     },
@@ -33,7 +51,7 @@
       "firma": "Bondoc & Asociatii",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
-      "text": "BONDOC Èi ASOCIAÈII Â is looking for junior lawyers Â to join ourÂ Banking & Finance and Information Technology & Communications practices.",
+      "text": "BONDOC Èi ASOCIAÈII Â is looking for junior lawyers Â to join ourÂ Banking & Finance , Information Technology & Communications, Litigation and Mining practices.",
       "link": "https://bondoc-asociatii.ro/",
       "priority": false,
       "qualifications_detected": []
@@ -291,7 +309,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "289 locuri de munca cautare stagiu+avocat",
+      "text": "300 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
