@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T09:57:10.186130+00:00",
-  "total_found": 37,
+  "generated_at": "2026-09-20T10:17:35.008532+00:00",
+  "total_found": 38,
   "results": [
     {
       "firma": "Schoenherr",
@@ -300,7 +300,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "285 locuri de munca cautare stagiu+avocat",
+      "text": "282 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -338,6 +338,15 @@
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Avocat colaborator ⚖️",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-colaborator/1986038",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "STAGIAR – DEPARTAMENT RECLAMATII SI CONTROL CALITATE SC Groupama Asigurari SA",
+      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
     }
