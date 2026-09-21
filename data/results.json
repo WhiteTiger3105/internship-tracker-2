@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T10:17:35.008532+00:00",
-  "total_found": 38,
+  "generated_at": "2026-09-21T11:25:36.946652+00:00",
+  "total_found": 33,
   "results": [
     {
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "(Austria, Austria) all Austria czech republic poland türkiye hungary country all position all Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in",
+      "text": "(Austria, Austria) all Austria czech republic poland türkiye hungary country all position all Accounting Expert (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -15,7 +15,7 @@
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "position all Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im Bereich EU & Competition Senior Recruiter (m|f|x) We are hiring Student (m|f|",
+      "text": "position all Accounting Expert (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im Bereich EU & Competition Senior Recruiter (m|f|x) We are hiring Student (m|f|x) ",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -44,15 +44,6 @@
       "sursa_url": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
       "text": "Junior Legal / Law Student – Travel & Aviation FLYBACK",
       "link": "https://www.bestjobs.eu/locuri-de-munca/avocatura",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Bondoc & Asociatii",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
-      "text": "BONDOC Èi ASOCIAÈII Â is looking for junior lawyers Â to join ourÂ Banking & Finance , Information Technology & Communications, Litigation and Mining practices.",
-      "link": "https://bondoc-asociatii.ro/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -125,33 +116,6 @@
       "sursa_url": "https://www.musat.ro/cariere/",
       "text": "Junior Tax Consultant",
       "link": "https://www.musat.ro/jobs/junior-tax-consultant/",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Schoenherr",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "Junior Buchhalter:in (m|f|x) location Austria| Vienna Finance, Accounting & Controlling Full-time employee apply now",
-      "link": "https://schoenherr.onlyfy.jobs/job/1ggd3c5mslc90ze0kani4e6rjtq2pw",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Schoenherr",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "Junior Buchhalter:in (m|f|x) location Austria| Vienna Finance, Accounting & Controlling Full-time employee",
-      "link": "https://schoenherr.onlyfy.jobs/job/1ggd3c5mslc90ze0kani4e6rjtq2pw",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Schoenherr",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "Junior Buchhalter:in (m|f|x)",
-      "link": "https://schoenherr.onlyfy.jobs/job/1ggd3c5mslc90ze0kani4e6rjtq2pw",
       "priority": false,
       "qualifications_detected": []
     },
@@ -300,7 +264,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "282 locuri de munca cautare stagiu+avocat",
+      "text": "284 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -338,15 +302,6 @@
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "Avocat colaborator ⚖️",
       "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-colaborator/1986038",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "STAGIAR – DEPARTAMENT RECLAMATII SI CONTROL CALITATE SC Groupama Asigurari SA",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
     }
