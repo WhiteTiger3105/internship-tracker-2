@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T11:48:26.822933+00:00",
-  "total_found": 31,
+  "generated_at": "2026-09-30T11:34:46.203479+00:00",
+  "total_found": 34,
   "results": [
     {
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "(Austria, Austria) all Austria czech republic poland türkiye hungary country all position all Accounting Expert (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in – Arbeitsrecht (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wie",
+      "text": "(Austria, Austria) all Austria czech republic poland türkiye hungary country all position all Accounting Expert (m|f|x) Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in – Arbeitsrecht (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien ",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -15,7 +15,7 @@
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "position all Accounting Expert (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Master Data Specialist (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in – Arbeitsrecht (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im Bereich EU & Competition Senior ",
+      "text": "position all Accounting Expert (m|f|x) Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in – Arbeitsrecht (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im Bereich EU & Competition Senior Re",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -98,6 +98,33 @@
       "sursa_url": "https://www.musat.ro/cariere/",
       "text": "Junior Tax Consultant",
       "link": "https://www.musat.ro/jobs/junior-tax-consultant/",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Schoenherr",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.schoenherr.eu/careers/",
+      "text": "Junior Buchhalter:in (m|f|x) location Austria| Vienna Finance, Accounting & Controlling Full-time employee apply now",
+      "link": "https://schoenherr.onlyfy.jobs/job/1ggd3c5mslc90ze0kani4e6rjtq2pw",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Schoenherr",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.schoenherr.eu/careers/",
+      "text": "Junior Buchhalter:in (m|f|x) location Austria| Vienna Finance, Accounting & Controlling Full-time employee",
+      "link": "https://schoenherr.onlyfy.jobs/job/1ggd3c5mslc90ze0kani4e6rjtq2pw",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Schoenherr",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.schoenherr.eu/careers/",
+      "text": "Junior Buchhalter:in (m|f|x)",
+      "link": "https://schoenherr.onlyfy.jobs/job/1ggd3c5mslc90ze0kani4e6rjtq2pw",
       "priority": false,
       "qualifications_detected": []
     },
@@ -246,7 +273,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "294 locuri de munca cautare stagiu+avocat",
+      "text": "291 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
