@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T13:52:44.698156+00:00",
-  "total_found": 38,
+  "generated_at": "2026-10-13T13:10:34.402491+00:00",
+  "total_found": 33,
   "results": [
     {
       "firma": "Schoenherr",
@@ -45,15 +45,6 @@
       "text": "Attorney – Junior – Real Estate or Competition",
       "link": "https://www.schoenherr.eu/careers/job-openings/attorney-junior-real-estate-or-competition",
       "priority": true,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Bondoc & Asociatii",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
-      "text": "BONDOC și ASOCIAȚII is looking for junior lawyers to join our Banking & Finance , Information Technology & Communications, Litigation and Mining practices.",
-      "link": "https://bondoc-asociatii.ro/",
-      "priority": false,
       "qualifications_detected": []
     },
     {
@@ -302,42 +293,6 @@
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "text": "510 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "12 Oct. 2026 Junior Digital Marketing - Google, TikTok & Facebook Ads CUBECO ONLINE SRL București Aplică rapid",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/junior-digital-marketing-google-tiktok-facebook-ads/99249002",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "12 Oct. 2026 Junior Digital Marketing - Google, TikTok & Facebook Ads CUBECO ONLINE SRL București",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/junior-digital-marketing-google-tiktok-facebook-ads/99249002",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Junior Digital Marketing - Google, TikTok & Facebook Ads CUBECO ONLINE SRL București",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/junior-digital-marketing-google-tiktok-facebook-ads/99249002",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Junior Digital Marketing - Google, TikTok & Facebook Ads",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/junior-digital-marketing-google-tiktok-facebook-ads/99249002",
       "priority": false,
       "qualifications_detected": []
     },
