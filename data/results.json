@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T10:51:15.039069+00:00",
-  "total_found": 34,
+  "generated_at": "2026-10-15T10:33:21.173424+00:00",
+  "total_found": 37,
   "results": [
     {
       "firma": "Schoenherr",
@@ -300,7 +300,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "514 locuri de munca cautare stagiu+avocat",
+      "text": "397 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -309,8 +309,35 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L.",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "11 Oct. 2026 Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L. București 7500 - 8500 RON net / lună Aplică rapid",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "11 Oct. 2026 Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L. București 7500 - 8500 RON net / lună",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L. București 7500 - 8500 RON net / lună",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Avocat / Consilier Juridic Junior – Dreptul Muncii",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
       "priority": false,
       "qualifications_detected": []
     }
