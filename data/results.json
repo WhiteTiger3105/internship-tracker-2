@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T09:53:46.062509+00:00",
-  "total_found": 34,
+  "generated_at": "2026-10-18T10:06:02.525198+00:00",
+  "total_found": 31,
   "results": [
     {
       "firma": "Schoenherr",
@@ -210,33 +210,6 @@
       "qualifications_detected": []
     },
     {
-      "firma": "Wolf Theiss",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.wolftheiss.com/careers/",
-      "text": "Career as a lawyer Our clients’ success is our top priority. That means we need outstanding lawyers who can handle complex matters, but also know how to listen and find new opportunities. Career as a lawyer Career as a business professional It takes more than just lawyers to run a law firm. Our business professionals assist our lawyers, enabling them to work more efficiently and are crucial to our operations. Career as a business professional Career as legal assistant A law firm needs good legal assistants. Bright minds who can organize an office efficiently. Our legal teams are always on the ",
-      "link": "https://www.wolftheiss.com/your-career/lawyers/",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Wolf Theiss",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.wolftheiss.com/careers/",
-      "text": "Opportunities for students & juniors It’s never too early to start researching which (law) firm is right for you. Let us help you decide. Opportunities for students & juniors",
-      "link": "https://www.wolftheiss.com/your-career/opportunities-for-students/",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "Wolf Theiss",
-      "regiune": "Bucuresti",
-      "sursa_url": "https://www.wolftheiss.com/careers/",
-      "text": "Opportunities for students & juniors",
-      "link": "https://www.wolftheiss.com/careers/",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
@@ -300,7 +273,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "474 locuri de munca cautare stagiu+avocat",
+      "text": "465 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
