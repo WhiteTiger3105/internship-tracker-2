@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-18T10:06:02.525198+00:00",
-  "total_found": 31,
+  "generated_at": "2026-10-19T11:33:49.057621+00:00",
+  "total_found": 37,
   "results": [
     {
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "(Austria, Austria) all Austria czech republic poland türkiye hungary slovakia country all position all Accounting Expert (m|f|x) Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwäl",
+      "text": "(Austria, Austria) all Austria czech republic poland türkiye hungary slovakia country all position all (Junior) HR Controller:in (m|f|x) Accounting Expert (m|f|x) Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senio",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -15,7 +15,7 @@
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "position all Accounting Expert (m|f|x) Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im Bereich EU & Competition We are hiring Student (m|f|x) Student/Apprentice (m|f|x) ",
+      "text": "position all (Junior) HR Controller:in (m|f|x) Accounting Expert (m|f|x) Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im Bereich EU & Competition We are hiring Student (",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -125,6 +125,33 @@
       "sursa_url": "https://www.musat.ro/cariere/",
       "text": "Junior Tax Consultant",
       "link": "https://www.musat.ro/jobs/junior-tax-consultant/",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Schoenherr",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.schoenherr.eu/careers/",
+      "text": "(Junior) HR Controller:in (m|f|x) location Austria| Vienna Finance, Accounting & Controlling Full-time employee apply now",
+      "link": "https://schoenherr.onlyfy.jobs/job/nwx1uzp8vriavrqy6vedcsewue0l0t",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Schoenherr",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.schoenherr.eu/careers/",
+      "text": "(Junior) HR Controller:in (m|f|x) location Austria| Vienna Finance, Accounting & Controlling Full-time employee",
+      "link": "https://schoenherr.onlyfy.jobs/job/nwx1uzp8vriavrqy6vedcsewue0l0t",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Schoenherr",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.schoenherr.eu/careers/",
+      "text": "(Junior) HR Controller:in (m|f|x)",
+      "link": "https://schoenherr.onlyfy.jobs/job/nwx1uzp8vriavrqy6vedcsewue0l0t",
       "priority": false,
       "qualifications_detected": []
     },
@@ -273,7 +300,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "465 locuri de munca cautare stagiu+avocat",
+      "text": "468 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -282,8 +309,35 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L.",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "19 Oct. 2026 Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L. București 7500 - 8500 RON net / lună Aplică rapid",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "19 Oct. 2026 Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L. București 7500 - 8500 RON net / lună",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L. București 7500 - 8500 RON net / lună",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Avocat / Consilier Juridic Junior – Dreptul Muncii",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
       "priority": false,
       "qualifications_detected": []
     }
