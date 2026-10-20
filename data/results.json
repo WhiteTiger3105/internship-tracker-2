@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:33:49.057621+00:00",
+  "generated_at": "2026-10-20T10:38:26.581872+00:00",
   "total_found": 37,
   "results": [
     {
@@ -237,6 +237,33 @@
       "qualifications_detected": []
     },
     {
+      "firma": "Wolf Theiss",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.wolftheiss.com/careers/",
+      "text": "Career as a lawyer Our clients’ success is our top priority. That means we need outstanding lawyers who can handle complex matters, but also know how to listen and find new opportunities. Career as a lawyer Career as a business professional It takes more than just lawyers to run a law firm. Our business professionals assist our lawyers, enabling them to work more efficiently and are crucial to our operations. Career as a business professional Career as legal assistant A law firm needs good legal assistants. Bright minds who can organize an office efficiently. Our legal teams are always on the ",
+      "link": "https://www.wolftheiss.com/your-career/lawyers/",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Wolf Theiss",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.wolftheiss.com/careers/",
+      "text": "Opportunities for students & juniors It’s never too early to start researching which (law) firm is right for you. Let us help you decide. Opportunities for students & juniors",
+      "link": "https://www.wolftheiss.com/your-career/opportunities-for-students/",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Wolf Theiss",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.wolftheiss.com/careers/",
+      "text": "Opportunities for students & juniors",
+      "link": "https://www.wolftheiss.com/careers/",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
@@ -300,7 +327,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "468 locuri de munca cautare stagiu+avocat",
+      "text": "454 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -309,35 +336,8 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "19 Oct. 2026 Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L. București 7500 - 8500 RON net / lună Aplică rapid",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "19 Oct. 2026 Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L. București 7500 - 8500 RON net / lună",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L. București 7500 - 8500 RON net / lună",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
-      "priority": false,
-      "qualifications_detected": []
-    },
-    {
-      "firma": "eJobs - stagiu avocat",
-      "regiune": "General",
-      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Avocat / Consilier Juridic Junior – Dreptul Muncii",
-      "link": "https://www.ejobs.ro/user/locuri-de-munca/avocat-consilier-juridic-junior-dreptul-muncii/1990734",
+      "text": "Avocat / Consilier Juridic Junior – Dreptul Muncii FLEXIBLE HR S.R.L.",
+      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
     }
