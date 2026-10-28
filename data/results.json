@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T11:16:09.505126+00:00",
-  "total_found": 36,
+  "generated_at": "2026-10-28T11:50:15.007137+00:00",
+  "total_found": 37,
   "results": [
     {
       "firma": "Schoenherr",
@@ -87,8 +87,19 @@
       "firma": "Musat & Asociatii",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.musat.ro/cariere/",
-      "text": "Finding the right job with us starts with you. If you are a determined, proactive, intuitive person, you are suitable for a job with us. Working with us will continuously challenge, develop and motivate you. Avocați stagiari Avocat definitiv pentru departamentul Concurență & Antitrust Avocați definitivi pentru departamentul de Restructurare și Insolvență Avocați stagiari Avocat definitiv pentru departamentul Litigii Avocat definitiv (Associate) pentru departamentul Drept Bancar și Financiar Junior Tax Consultant",
-      "link": "https://www.musat.ro/jobs/musat-asociatii-recruteaza-avocati-stagiari/",
+      "text": "Cariere Bine ai venit în echipa noastră! Din 1990, ne-am construit reputația pe calitatea oamenilor noștri. Am trecut testul timpului datorită managementului nostru vizionar și a muncii în echipă, prin menținerea celor mai înalte standarde de etică și colegialitate, cultivând noi capacități și abilități și construind zi de zi un mediu de lucru motivant. Descoperă care sunt oportunitățile disponibile acum în Mușat & Asociații și aplică pentru poziția care ți se potrivește. Aplică pentru unul dintre job-urile enumerate mai jos. Avocați stagiari Avocat definitiv pentru departamentul Concurență & ",
+      "link": "https://www.musat.ro/ro/jobs/musat-asociatii-recruteaza-avocati-stagiari/",
+      "priority": false,
+      "qualifications_detected": [
+        "disponibil"
+      ]
+    },
+    {
+      "firma": "Musat & Asociatii",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.musat.ro/cariere/",
+      "text": "Aplică pentru unul dintre job-urile enumerate mai jos. Avocați stagiari Avocat definitiv pentru departamentul Concurență & Antitrust Junior Tax Consultant Avocați definitivi pentru departamentul de Restructurare și Insolvență Avocați stagiari Avocat definitiv pentru departamentul Litigii Avocat definitiv (Associate) pentru departamentul Drept Bancar și Financiar",
+      "link": "https://www.musat.ro/ro/jobs/musat-asociatii-recruteaza-avocati-stagiari/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -96,8 +107,8 @@
       "firma": "Musat & Asociatii",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.musat.ro/cariere/",
-      "text": "Avocați stagiari Avocat definitiv pentru departamentul Concurență & Antitrust Avocați definitivi pentru departamentul de Restructurare și Insolvență Avocați stagiari Avocat definitiv pentru departamentul Litigii Avocat definitiv (Associate) pentru departamentul Drept Bancar și Financiar Junior Tax Consultant",
-      "link": "https://www.musat.ro/jobs/musat-asociatii-recruteaza-avocati-stagiari/",
+      "text": "Avocați stagiari Avocat definitiv pentru departamentul Concurență & Antitrust Junior Tax Consultant Avocați definitivi pentru departamentul de Restructurare și Insolvență Avocați stagiari Avocat definitiv pentru departamentul Litigii Avocat definitiv (Associate) pentru departamentul Drept Bancar și Financiar",
+      "link": "https://www.musat.ro/ro/jobs/musat-asociatii-recruteaza-avocati-stagiari/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -106,7 +117,7 @@
       "regiune": "Bucuresti",
       "sursa_url": "https://www.musat.ro/cariere/",
       "text": "Avocați stagiari",
-      "link": "https://www.musat.ro/jobs/musat-asociatii-recruteaza-avocati-stagiari/",
+      "link": "https://www.musat.ro/ro/jobs/musat-asociatii-recruteaza-avocati-stagiari/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -115,7 +126,7 @@
       "regiune": "Bucuresti",
       "sursa_url": "https://www.musat.ro/cariere/",
       "text": "Junior Tax Consultant",
-      "link": "https://www.musat.ro/jobs/junior-tax-consultant/",
+      "link": "https://www.musat.ro/ro/jobs/junior-tax-consultant/",
       "priority": false,
       "qualifications_detected": []
     },
@@ -318,7 +329,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "439 locuri de munca cautare stagiu+avocat",
+      "text": "457 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
