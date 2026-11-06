@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T13:42:44.761796+00:00",
-  "total_found": 36,
+  "generated_at": "2026-11-06T13:26:58.084244+00:00",
+  "total_found": 37,
   "results": [
     {
       "firma": "Schoenherr",
@@ -45,6 +45,15 @@
       "text": "Attorney – Junior – Real Estate or Competition",
       "link": "https://www.schoenherr.eu/careers/job-openings/attorney-junior-real-estate-or-competition",
       "priority": true,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "Bondoc & Asociatii",
+      "regiune": "Bucuresti",
+      "sursa_url": "https://www.bondoc-asociatii.ro/careers/",
+      "text": "BONDOC Èi ASOCIAÈII Â is looking for junior lawyers Â to join ourÂ Banking & Finance , Information Technology & Communications, Litigation and Mining practices.",
+      "link": "https://bondoc-asociatii.ro/",
+      "priority": false,
       "qualifications_detected": []
     },
     {
@@ -329,7 +338,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "473 locuri de munca cautare stagiu+avocat",
+      "text": "523 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
