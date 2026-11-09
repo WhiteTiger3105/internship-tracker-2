@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-08T12:26:42.573460+00:00",
-  "total_found": 37,
+  "generated_at": "2026-11-09T14:41:41.427520+00:00",
+  "total_found": 38,
   "results": [
     {
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "(Austria, Austria) all Austria czech republic hungary slovakia türkiye poland country all position all (Junior) HR Controller:in (m|f|x) Accounting Expert (m|f|x) Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im Bereich EU",
+      "text": "(Austria, Austria) all Austria czech republic hungary slovakia türkiye poland country all position all (Junior) HR Controller:in (m|f|x) Accounting Expert (m|f|x) Anwält:in im Bereich Banking, Finance & Capital Markets Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien S",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -15,7 +15,7 @@
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "position all (Junior) HR Controller:in (m|f|x) Accounting Expert (m|f|x) Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im Bereich EU & Competition We are hiring Legal Assistant (m|f|x) Attorney – Junior – Real Estate or Co",
+      "text": "position all (Junior) HR Controller:in (m|f|x) Accounting Expert (m|f|x) Anwält:in im Bereich Banking, Finance & Capital Markets Junior Buchhalter:in (m|f|x) Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Senior Rechtsanwaltsanwärter:in | Anwält:in im Bereich EU & Competition We are hiring Legal",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -338,7 +338,16 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "452 locuri de munca cautare stagiu+avocat",
+      "text": "478 locuri de munca cautare stagiu+avocat",
+      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Consultant fonduri europene și investiții publice (junior sau middle) – Valea Lupului, Iaș DIM PROJECTS CONSULTING SRL",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
