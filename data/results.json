@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T13:12:20.986828+00:00",
-  "total_found": 37,
+  "generated_at": "2026-11-12T14:15:06.847846+00:00",
+  "total_found": 38,
   "results": [
     {
       "firma": "Schoenherr",
@@ -338,7 +338,16 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "451 locuri de munca cautare stagiu+avocat",
+      "text": "464 locuri de munca cautare stagiu+avocat",
+      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Consultant fonduri europene și investiții publice (junior sau middle) – Valea Lupului, Iaș DIM PROJECTS CONSULTING SRL",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
