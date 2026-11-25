@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T16:42:31.766919+00:00",
-  "total_found": 37,
+  "generated_at": "2026-11-25T16:26:51.389280+00:00",
+  "total_found": 38,
   "results": [
     {
       "firma": "Schoenherr",
@@ -15,7 +15,7 @@
       "firma": "Schoenherr",
       "regiune": "Bucuresti",
       "sursa_url": "https://www.schoenherr.eu/careers/",
-      "text": "position all (Junior) HR Controller:in (m|f|x) Accounting Expert (m|f|x) Anwält:in im Bereich Banking, Finance & Capital Markets Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in – Arbeitsrecht (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Schönherr Winter Associate Programme 2027 | Wien Student (m|f|x) Disp",
+      "text": "position all (Junior) HR Controller:in (m|f|x) Accounting Expert (m|f|x) Anwält:in im Bereich Banking, Finance & Capital Markets Junior Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Junior Reporting Analyst (m|f|x) Legal Assistant (m|f|x) - Rechtsanwaltsassistent:in Rechtsanwaltsanwärter:in - Dispute Resolution | International Arbitration (m|f|x) Rechtsanwaltsanwärter:in – Arbeitsrecht (m|f|x) Schönherr Summer Associate Programme 2027 | Linz Schönherr Summer Associate Programme 2027 | Wien Student (m|f|x) Dispute Resolution - International Arbitration We are",
       "link": "https://www.schoenherr.eu/careers/",
       "priority": true,
       "qualifications_detected": []
@@ -338,7 +338,16 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "405 locuri de munca cautare stagiu+avocat",
+      "text": "408 locuri de munca cautare stagiu+avocat",
+      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Consultant fonduri europene și investiții publice (junior sau middle) – Valea Lupului, Iaș DIM PROJECTS CONSULTING SRL",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
