@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T16:26:51.389280+00:00",
-  "total_found": 38,
+  "generated_at": "2026-11-26T16:00:43.951630+00:00",
+  "total_found": 39,
   "results": [
     {
       "firma": "Schoenherr",
@@ -338,7 +338,7 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "408 locuri de munca cautare stagiu+avocat",
+      "text": "412 locuri de munca cautare stagiu+avocat",
       "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
       "priority": false,
       "qualifications_detected": []
@@ -347,8 +347,17 @@
       "firma": "eJobs - stagiu avocat",
       "regiune": "General",
       "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
-      "text": "Consultant fonduri europene și investiții publice (junior sau middle) – Valea Lupului, Iaș DIM PROJECTS CONSULTING SRL",
-      "link": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Stagiar - Administrator Linux GROUPAMA ASIGURARI SA",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/stagiar-administrator-linux/99275923",
+      "priority": false,
+      "qualifications_detected": []
+    },
+    {
+      "firma": "eJobs - stagiu avocat",
+      "regiune": "General",
+      "sursa_url": "https://www.ejobs.ro/locuri-de-munca/cautare-stagiu+avocat",
+      "text": "Stagiar - Administrator Linux",
+      "link": "https://www.ejobs.ro/user/locuri-de-munca/stagiar-administrator-linux/99275923",
       "priority": false,
       "qualifications_detected": []
     }
